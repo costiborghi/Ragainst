@@ -19,7 +19,7 @@ A questo punto, non ci resta che scaricare il software vero e proprio! Vediamo c
 * Visitare la pagina di download al link [GitHub desktop download link](https://desktop.github.com/) e clickare sul grande bottone viola **Download for Windows (64 bits)**.
 
 N.B.: se non siete amministratori del vostro pc, **diventatelo**. In caso contrario avrete problemi sia nella fase di download che di installazione.
-* Una volta scaricato il programma, questo si troverà nella cartella _Download_ del proprio pc. Cercatelo e fate doppio click su **GitHub Desktop** che si troverà nella cartella appena scaricata.
+* Una volta scaricato il programma, questo si troverà nella cartella _Download_ del vostro pc. Cercatelo e fate doppio click su **GitHub Desktop** che si troverà nella cartella appena scaricata.
 * Si aprirà una finestra pop-up e a questo punto non vi resterà da fare altro che clickare sul pulsante **installa**. 
 
 Da questo momento in poi dovrete solo aspettare la fine del processo di installazione e premere **inizia** per avviare il programma. Il setting di GitHub desktop può essere fatto al momento stesso dell'installazione oppure in un secondo tempo.
