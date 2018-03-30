@@ -15,7 +15,7 @@ Successivamente sarà opportuno creare un account GitHub direttamente dal loro s
 A questo punto, non ci resta che scaricare il software vero e proprio! Vediamo come.
 
 ---
-## Scaricare GitHub desktop
+## Installare GitHub desktop
 * Visitare la pagina di download al link [GitHub desktop download link](https://desktop.github.com/) e clickare sul grande bottone viola **Download for Windows (64 bits)**.
 |N.B.|
 |----|
