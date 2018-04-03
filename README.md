@@ -54,7 +54,7 @@ Se fin qui è filato tutto liscio, passiamo all'ultimo step.
 
 ---
 ## Installare GitHub desktop
-#### Di cosa abbiamo bisogno per istallare GitHub desktop su Windows?
+#### Di cosa abbiamo bisogno per installare GitHub desktop su Windows?
 Un pre-requisito **necessario** per far sì che i nostri sforzi non siano vani è quello di avere un sistema operativo a 64 bit.
 Successivamente sarà opportuno creare un account GitHub direttamente dal loro sito web [GitHub - Join](https://github.com/join). Per questo passaggio, comunque molto intuitivo, vi consiglio la guida in linea [come iscriversi a GitHub (EN)](https://help.github.com/articles/signing-up-for-a-new-github-account/) che vi accompagnerà passo passo nella creazione del vostro profilo personale.
 
