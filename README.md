@@ -30,7 +30,7 @@ In questo tutorial simuleremo l'installazione per **_Windows_**.
 - Qui abbiamo la pagina di download vera e propria. Dovrete clickare sul collegamento (in blu) "**Download R 3.4.4 for Windows**" per far comparire il file .exe che sarà effettivamente l'anticamera del vostro software.
 - Una volta scaricato l'esecutivo non vi resta che farlo partire e seguire passo passo le indicazioni che vi fornirà l'installer stesso.
 
-Installato R, passiamo allo step successivo.
+Installato R, spuntiamo la prima task e passiamo allo step successivo.
 1. [x] Installare R
 2. [ ] Installare RStudio
 3. [ ] Installare GitHub desktop
