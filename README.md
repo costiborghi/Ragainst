@@ -31,7 +31,7 @@ In questo tutorial simuleremo l'installazione per **_Windows_**.
 - Una volta scaricato l'esecutivo non vi resta che farlo partire e seguire passo passo le indicazioni che vi fornirà l'installer stesso.
 
 Installato R, passiamo allo step successivo.
-1. [x] Installare R
+1. [x] ~~Installare R~~
 2. [ ] Installare RStudio
 3. [ ] Installare GitHub desktop
 
@@ -48,8 +48,8 @@ Sotto troveremo tutta una serie di collegamenti divisi per sistema operativo. Co
 - Fare click sul primo collegamento, chiamato "**RStudio 1.1.442 - Windows Vista/7/8/10**". Si aprirà la richiesta di download di un file in formato .exe: una volta scaricato sarà necessario far partire il programma e seguire le precise indicazioni dell'installer. Una volta installato il programma è buona norma farlo partire, per controllare che si apra e che non presenti problemi.
 
 Se fin qui è filato tutto liscio, passiamo all'ultimo step.
-1. [x] Installare R
-2. [x] Installare RStudio
+1. [x] ~~Installare R~~
+2. [x] ~~Installare RStudio~~
 3. [ ] Installare GitHub desktop
 
 ---
@@ -69,6 +69,6 @@ Da questo momento in poi dovrete solo aspettare la fine del processo di installa
 
 _Ma questa è un'altra storia._
 
-1. [x] Installare R
-2. [x] Installare R Studio
-3. [x] Installare GitHub desktop
+1. [x] ~~Installare R~~
+2. [x] ~~Installare R Studio~~
+3. [x] ~~Installare GitHub desktop~~
