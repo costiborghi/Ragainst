@@ -37,10 +37,10 @@ Installato R, passiamo allo step successivo.
 
 ---
 ## Installare RStudio
-R studio è l'interfaccia grafica che permette un uso molto più speditivo ed intuitivo di R ed il suo linguaggio
+RStudio è l'interfaccia grafica che permette un uso molto più speditivo ed intuitivo di R ed il suo linguaggio
 
 - Per prima cosa colleghiamoci al sito [RStudio](https://www.rstudio.com/products/rstudio/download/)
-- Qui troveremo una serie di opzioni, collegate a dei pulsanti verdi, con diversi costi e funzioni supplementari. Per i nostri scopi sarà sufficiente il primo: "**RStudio Desktop** Open Source License". Facciamo click quindi sul pulsante _download_ ad esso collegato. Il sito ci reindirizzerà alla fine della pagina dove, in bella vista, campeggia un monito:
+- Qui troveremo una serie di opzioni, collegate a dei pulsanti verdi, con diversi costi e funzioni supplementari. Per i nostri scopi sarà sufficiente il primo: "**RStudio Desktop** - Open Source License". Facciamo click quindi sul pulsante _download_ ad esso collegato. Il sito ci reindirizzerà alla fine della pagina dove, in bella vista, campeggia un monito:
 > RStudio requires R 3.0.1+. If you don't already have R, download it [here](https://cran.r-project.org/).
 
 Clickando _here_ verrete ricollegati al sito del CRAN ma, arrivati a questo punto, non dovremmo averne più bisogno.
